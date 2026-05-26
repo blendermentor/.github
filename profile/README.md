@@ -48,13 +48,14 @@ Although BlenderMentor doesn't collect any data, your API provider may, as per t
 
 ### 🚀 Getting Started
 
-- 💡 **For full, detailed setup, key features, and troubleshooting instructions, please read our [Installation and Usage Guide](https://github.com/blendermentor/blendermentor/blob/e7d97624e5e63ad05957442d0dc986fcecca7213/INSTRUCTIONS.md).**
+- 💡 **For full, detailed setup, key features, and troubleshooting instructions, please check the [BlenderMentor Repository](https://github.com/blendermentor/blendermentor).**
 
 ---
 
-## You're Welcome Here
+## Your contributions are welcome.
 
 Whether you're a Python developer, a technical writer, a 3D artist willing to install the addon and tell us what broke, or someone experienced with managing open-source GitHub projects — your contribution would be genuinely appreciated.
-Please feel free to clone/fork the [Repository](https://github.com/blendermentor/blendermentor) and submit your changes.
+
+If you'd like to help improve the project, please check out our [CONTRIBUTING.md](https://github.com/blendermentor/blendermentor/blob/98c04bdaebb39e080cd42fe08c17536e5cccdc6c/CONTRIBUTING.md) file for details on how to get started, our development workflow, and coding standards.
 
 ---

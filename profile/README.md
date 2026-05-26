@@ -1,12 +1,26 @@
-## Hi there 👋
+# BlenderMentor
 
-<!--
+Open-source Blender tools built around one idea: the best way to learn 3D art is by actually doing it yourself.
 
-**Here are some ideas to get you started:**
+This is a small side project, built after work hours, and very much a work in progress.
+Licensed under **GPL v3**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Current Project
+
+🎓 [BlenderMentor](https://github.com/BlenderMentor/blendermentor) — An AI-powered addon that walks you through Blender's interface step by step, without ever touching your project for you.
+
+---
+
+## You're Welcome Here
+
+Whether you're a Python developer, a technical writer, a 3D artist willing to install the addon and tell us what broke, or someone experienced with managing open-source GitHub projects — your contribution would be genuinely appreciated.
+
+Blender is a massive piece of software, and mapping it properly takes a community.
+
+---
+
+## Get Started
+
+⬇️ [Download the latest release](https://github.com/BlenderMentor/blendermentor/releases/latest) and give it a try.

@@ -4,7 +4,7 @@
 
 Open-source Blender tools built around one idea: the best way to learn is by actually doing it ourseleves than letting an AI do it for us.
 
-> This is a small side project, vibe coded after work hours, and very much a work in progress, and prone to break easily. Licensed under **GPL v3**.
+> ⚠️ This is a small side project, vibe coded after work hours, and very much a work in progress, and prone to break easily. Licensed under **GPL v3**.
 
 ---
 

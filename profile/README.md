@@ -58,4 +58,10 @@ Whether you're a Python developer, a technical writer, a 3D artist willing to in
 
 If you'd like to help improve the project, please check out our [CONTRIBUTING.md](https://github.com/blendermentor/blendermentor/blob/98c04bdaebb39e080cd42fe08c17536e5cccdc6c/CONTRIBUTING.md) file for details on how to get started, our development workflow, and coding standards.
 
+### Join the Community on Discord
+
+- Have a question, a feature idea, or just want to chat about Blender?
+- Come hang out on the [BlenderMentor Discord](https://discord.gg/5SqGztNKu)
+- You may suggest features, report issues, and possibly connect with others who are learning Blender.
+
 ---
